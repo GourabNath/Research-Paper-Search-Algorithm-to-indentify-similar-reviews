@@ -1,0 +1,139 @@
+,support,itemsets
+39,0.35640080428954424,frozenset({'phone'})
+4,0.16638739946380698,frozenset({'battery'})
+49,0.16085790884718498,frozenset({'quality'})
+7,0.12818364611260052,frozenset({'camera'})
+47,0.11293565683646113,frozenset({'product'})
+27,0.09735254691689008,frozenset({'life'})
+75,0.08478552278820375,"frozenset({'life', 'battery'})"
+41,0.07305630026809651,frozenset({'picture'})
+44,0.06886729222520108,frozenset({'price'})
+131,0.06585120643431636,"frozenset({'quality', 'picture'})"
+77,0.06384048257372654,"frozenset({'phone', 'battery'})"
+91,0.06233243967828418,"frozenset({'camera', 'phone'})"
+38,0.06149463806970509,frozenset({'performance'})
+31,0.06082439678284182,frozenset({'mobile'})
+123,0.05948391420911528,"frozenset({'quality', 'phone'})"
+81,0.05881367292225201,"frozenset({'quality', 'battery'})"
+70,0.05328418230563003,"frozenset({'camera', 'battery'})"
+94,0.05060321715817694,"frozenset({'camera', 'quality'})"
+57,0.04691689008042895,frozenset({'speed'})
+55,0.04440348525469169,frozenset({'sound'})
+33,0.043398123324396784,frozenset({'money'})
+17,0.04155495978552279,frozenset({'everything'})
+111,0.03971179624664879,"frozenset({'life', 'quality'})"
+120,0.03820375335120643,"frozenset({'price', 'phone'})"
+109,0.037198391420911525,"frozenset({'life', 'phone'})"
+78,0.033847184986595176,"frozenset({'battery', 'picture'})"
+22,0.033176943699731905,frozenset({'features'})
+66,0.030663538873994638,frozenset({'value'})
+16,0.03049597855227882,frozenset({'display'})
+62,0.02982573726541555,frozenset({'time'})
+15,0.02898793565683646,frozenset({'device'})
+89,0.028150134048257374,"frozenset({'life', 'camera'})"
+114,0.02781501340482574,"frozenset({'value', 'money'})"
+12,0.02764745308310992,frozenset({'day'})
+136,0.02697721179624665,"frozenset({'sound', 'quality'})"
+110,0.025804289544235925,"frozenset({'life', 'picture'})"
+116,0.02530160857908847,"frozenset({'phone', 'performance'})"
+2,0.02530160857908847,frozenset({'awesome'})
+59,0.024966487935656836,frozenset({'superb'})
+19,0.02379356568364611,frozenset({'experience'})
+119,0.022453083109919572,"frozenset({'phone', 'picture'})"
+90,0.022285522788203754,"frozenset({'camera', 'performance'})"
+0,0.022285522788203754,frozenset({'amazon'})
+82,0.022117962466487937,"frozenset({'sound', 'battery'})"
+51,0.0217828418230563,frozenset({'range'})
+40,0.021447721179624665,frozenset({'phones'})
+76,0.021447721179624665,"frozenset({'battery', 'performance'})"
+35,0.021280160857908847,frozenset({'months'})
+45,0.02111260053619303,frozenset({'problem'})
+25,0.020609919571045576,frozenset({'issue'})
+53,0.02044235924932976,frozenset({'screen'})
+18,0.020107238605898123,frozenset({'excellent'})
+56,0.01960455764075067,frozenset({'speaker'})
+37,0.01943699731903485,frozenset({'oneplus'})
+72,0.01943699731903485,"frozenset({'day', 'battery'})"
+93,0.019101876675603216,"frozenset({'price', 'camera'})"
+104,0.018431635388739945,"frozenset({'everything', 'phone'})"
+61,0.017928954423592495,frozenset({'thing'})
+106,0.017928954423592495,"frozenset({'features', 'phone'})"
+97,0.01759383378016086,"frozenset({'camera', 'speed'})"
+126,0.01759383378016086,"frozenset({'sound', 'phone'})"
+23,0.01759383378016086,frozenset({'flagship'})
+128,0.017258713136729224,"frozenset({'phone', 'speed'})"
+11,0.016923592493297588,frozenset({'dash'})
+5,0.016923592493297588,frozenset({'beast'})
+54,0.016923592493297588,frozenset({'smartphone'})
+117,0.01675603217158177,"frozenset({'quality', 'performance'})"
+67,0.016588471849865952,frozenset({'worth'})
+132,0.016588471849865952,"frozenset({'sound', 'picture'})"
+3,0.016253351206434317,frozenset({'backup'})
+99,0.016253351206434317,"frozenset({'day', 'phone'})"
+129,0.0160857908847185,"frozenset({'time', 'phone'})"
+87,0.0160857908847185,"frozenset({'display', 'camera'})"
+135,0.0160857908847185,"frozenset({'quality', 'product'})"
+79,0.0160857908847185,"frozenset({'price', 'battery'})"
+14,0.015750670241286863,frozenset({'delivery'})
+64,0.015750670241286863,frozenset({'usage'})
+58,0.015750670241286863,frozenset({'super'})
+26,0.015415549597855228,frozenset({'issues'})
+24,0.015415549597855228,frozenset({'iphone'})
+113,0.015415549597855228,"frozenset({'phone', 'money'})"
+69,0.01524798927613941,"frozenset({'backup', 'battery'})"
+122,0.014912868632707774,"frozenset({'phone', 'product'})"
+133,0.014745308310991957,"frozenset({'price', 'quality'})"
+65,0.014745308310991957,frozenset({'use'})
+137,0.014410187667560321,"frozenset({'quality', 'speed'})"
+73,0.014410187667560321,"frozenset({'display', 'battery'})"
+36,0.014242627345844505,frozenset({'nothing'})
+10,0.014075067024128687,frozenset({'charging'})
+112,0.014075067024128687,"frozenset({'sound', 'life'})"
+102,0.01390750670241287,"frozenset({'display', 'phone'})"
+8,0.01390750670241287,frozenset({'charge'})
+96,0.01390750670241287,"frozenset({'sound', 'camera'})"
+32,0.013739946380697051,frozenset({'mode'})
+134,0.013739946380697051,"frozenset({'range', 'price'})"
+124,0.013572386058981234,"frozenset({'range', 'phone'})"
+34,0.013404825737265416,frozenset({'month'})
+1,0.013237265415549598,frozenset({'android'})
+115,0.01306970509383378,"frozenset({'months', 'phone'})"
+83,0.012902144772117962,"frozenset({'battery', 'speed'})"
+9,0.012734584450402145,frozenset({'charger'})
+42,0.012567024128686327,frozenset({'pictures'})
+52,0.012231903485254691,frozenset({'sale'})
+60,0.012064343163538873,frozenset({'thanks'})
+20,0.012064343163538873,frozenset({'face'})
+68,0.012064343163538873,"frozenset({'amazon', 'phone'})"
+50,0.011896782841823056,frozenset({'ram'})
+84,0.011729222520107238,"frozenset({'time', 'battery'})"
+6,0.011561662198391422,frozenset({'bit'})
+85,0.011561662198391422,"frozenset({'usage', 'battery'})"
+30,0.011394101876675604,frozenset({'market'})
+13,0.011394101876675604,frozenset({'days'})
+46,0.011394101876675604,frozenset({'processor'})
+92,0.011394101876675604,"frozenset({'camera', 'picture'})"
+74,0.011394101876675604,"frozenset({'everything', 'battery'})"
+86,0.011226541554959786,"frozenset({'day', 'camera'})"
+21,0.011226541554959786,frozenset({'fast'})
+98,0.011058981233243968,"frozenset({'day', 'life'})"
+71,0.011058981233243968,"frozenset({'dash', 'battery'})"
+95,0.01089142091152815,"frozenset({'camera', 'screen'})"
+80,0.01089142091152815,"frozenset({'product', 'battery'})"
+107,0.01089142091152815,"frozenset({'issue', 'phone'})"
+101,0.01089142091152815,"frozenset({'device', 'phone'})"
+100,0.010723860589812333,"frozenset({'day', 'quality'})"
+48,0.010723860589812333,frozenset({'purchase'})
+108,0.010723860589812333,"frozenset({'life', 'performance'})"
+105,0.010556300268096515,"frozenset({'phone', 'experience'})"
+103,0.010388739946380697,"frozenset({'display', 'quality'})"
+118,0.010388739946380697,"frozenset({'phones', 'phone'})"
+88,0.010388739946380697,"frozenset({'everything', 'camera'})"
+63,0.010388739946380697,frozenset({'update'})
+125,0.01022117962466488,"frozenset({'screen', 'phone'})"
+130,0.01022117962466488,"frozenset({'value', 'phone'})"
+121,0.01022117962466488,"frozenset({'problem', 'phone'})"
+127,0.010053619302949061,"frozenset({'speaker', 'phone'})"
+28,0.010053619302949061,frozenset({'lot'})
+29,0.010053619302949061,frozenset({'love'})
+43,0.010053619302949061,frozenset({'premium'})
